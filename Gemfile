@@ -8,4 +8,4 @@ gem 'yui-compressor'
 gem 'peach'
 gem 'json'
 
-gem 'rack'
+gem 'rack', '>= 1.6.11'
